@@ -1,0 +1,2 @@
+# rust
+All rust projects
